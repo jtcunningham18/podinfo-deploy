@@ -1,0 +1,1 @@
+{"jobID":"e584878f-8a22-a01b-23cf-9bcbbddf2c77","spec":{"type":"policy","cause":{"Message":"","User":"JT Cunningham \u003cjtcunningham18@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
